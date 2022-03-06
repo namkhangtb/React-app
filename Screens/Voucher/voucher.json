@@ -1,0 +1,34 @@
+{
+    "vouchers":[
+        {
+            "id": 1,
+            "name": "Discount 10 Dollar",
+            "discount": 10
+        },
+        {
+            "id": 2,
+            "name": "Discount 20 Dollar",
+            "discount": 20
+        },
+        {
+            "id": 3,
+            "name": "Discount 50 Dollar",
+            "discount": 50
+        },
+        {
+            "id": 4,
+            "name": "Discount 100 Dollar",
+            "discount": 100
+        },
+        {
+            "id": 5,
+            "name": "Discount 200 Dollar",
+            "discount": 200
+        },
+        {
+            "id": 6,
+            "name": "Discount 1000 Dollar",
+            "discount": 1000
+        }
+    ]
+}

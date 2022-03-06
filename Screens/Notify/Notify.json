@@ -1,0 +1,64 @@
+{
+    "notifies":[
+        {
+          "id": 1,
+          "about":
+            "Succulent plant's one of the most popular and beautiful species that will produce clump's. The storage of water often gives succulent plants a more swollen or fleshy appearance than other plants, a characteristic known as succulence.",
+          "image": "https://raw.githubusercontent.com/TheTechDesigner/E-Commerce/main/assets/images/shoppingBag.png"
+        },
+        {
+          "id": 2,
+          "about":
+            "Succulent species that will pran other plants, a characteristic known as succulence.",
+          "image": "https://raw.githubusercontent.com/TheTechDesigner/E-Commerce/main/assets/images/shoppingBag.png"
+        },
+        {
+          "id": 3,
+          "about":
+            "Succulent Plantis one of the most popular and beautiater often gives succulent wollen or fleshy appearance than other plants, a characteristic known as succulence.",
+          "image": "https://raw.githubusercontent.com/TheTechDesigner/E-Commerce/main/assets/images/shoppingBag.png"
+        },
+        {
+          "id": 4,
+          "about":
+            "Succulent Plantis one of the most popular and bter often gives succulent plants a more swollen or fleshy appearance than other plants, a characteristic known as succulence.",
+          "image": "https://raw.githubusercontent.com/TheTechDesigner/E-Commerce/main/assets/images/shoppingBag.png"
+        },
+        {
+          "id": 5,
+          "about":
+            "See of the most popular and beautiful species that will produce cives succulent plants a more swollen or fleshy appearance than other plants, a characteristic known as succulence.",
+          "image": "https://raw.githubusercontent.com/TheTechDesigner/E-Commerce/main/assets/images/shoppingBag.png"
+        },
+        {
+          "id": 6,
+          "about":
+            "Succe storage of water often gives succulent plants a more swollen oants, a characteristic known as succulence.",
+          "image": "https://raw.githubusercontent.com/TheTechDesigner/E-Commerce/main/assets/images/shoppingBag.png"
+        },
+        {
+          "id": 7,
+          "about":
+            "Succe storage of water often gives succulent plants a more swollen oants, a characteristic known as succulence.",
+          "image": "https://raw.githubusercontent.com/TheTechDesigner/E-Commerce/main/assets/images/shoppingBag.png"
+        },
+        {
+          "id": 8,
+          "about":
+            "Succe storage of water often gives succulent plants a more swollen oants, a characteristic known as succulence.",
+          "image": "https://raw.githubusercontent.com/TheTechDesigner/E-Commerce/main/assets/images/shoppingBag.png"
+        },
+        {
+          "id": 9,
+          "about":
+            "Succe storage of water often gives succulent plants a more swollen oants, a characteristic known as succulence.",
+          "image": "https://raw.githubusercontent.com/TheTechDesigner/E-Commerce/main/assets/images/shoppingBag.png"
+        },
+        {
+          "id": 10,
+          "about":
+            "Succe storage of water often gives succulent plants a more swollen oants, a characteristic known as succulence.",
+          "image": "https://raw.githubusercontent.com/TheTechDesigner/E-Commerce/main/assets/images/shoppingBag.png"
+        },
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "maps":[
+        {
+            "id": 1,
+            "name": "Lipstick Ashleaf",
+            "location": "Ashleaf Shopping Centre",
+            "district": "Walkinstown",
+            "city": "Dublin 12",
+            "numphone": "01 456 0340",
+            "latitude" : 53.3159706,
+            "longitude": -6.3180105,
+            "decription": "LipStick1"
+        },
+        {
+            "id": 2,
+            "name": "Lipstick Stillorgan",
+            "location": "7 Stillorgan Village",
+            "district": "Stillorgan",
+            "city": "Co. Dublin",
+            "numphone": "01 212 3771",
+            "latitude" : 53.3159706,
+            "longitude": -6.3180105,
+            "decription": "LipStick2"
+        },
+        {
+            "id": 3,
+            "name": "Lipstick Nutgrove",
+            "location": "Nutgrove Shopping Centre",
+            "district": "Rathfarnham",
+            "city": "Dublin 14",
+            "numphone": "01 493 4281",
+            "latitude" : 53.3159706,
+            "longitude": -6.3180105,
+            "decription": "LipStick3"
+        }
+
+    ]
+}

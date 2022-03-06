@@ -1,0 +1,59 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "name": "Matte lipstick",
+            "price": 39.99,
+            "like": true,
+            "img": "https://chupanh.vn/wp-content/uploads/2017/06/meo-chup-anh-son-nhin-anh-la-muon-mua-ngay-ve-nha1.jpg",
+            "about":
+              "Succulent Plantis one of the most popular and beautiful species that will produce clumpms. The storage of water often gives succulent plants a more swollen or fleshy appearance than other plants, a characteristic known as succulence."
+          },
+        
+          {
+            "id": 2,
+            "name": "Crème lipstick",
+            "price": 29.99,
+            "like": false,
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOZntSDNGBgTzcIZMgu6LvQKtQVyOJqMkg9LGo7UnSzIXCgmZQ9038rzKC8H_c9NBlqBA&usqp=CAU",
+            "about":
+              "Dragon Plant one of the most popular and beautiful species that will produce clumpms. The storage of water often gives succulent plants a more swollen or fleshy appearance than other plants, a characteristic known as succulence."
+          },
+          {
+            "id": 3,
+            "name": "Frost lipstick",
+            "price": 29.99,
+            "like": false,
+            "img": "https://images.squarespace-cdn.com/content/v1/53883795e4b016c956b8d243/1573795618930-TFC0R368BU2TGD0HWQD5/chup-anh-son-moi-3.jpg",
+            "about":
+              "Dragon Plant one of the most popular and beautiful species that will produce clumpms. The storage of water often gives succulent plants a more swollen or fleshy appearance than other plants, a characteristic known as succulence."
+          },
+          {
+            "id": 4,
+            "name": "Lip gloss",
+            "price": 29.99,
+            "like": false,
+            "img": "https://lavenderstudio.com.vn/wp-content/uploads/2017/09/chup-hinh-san-pham-quang-cao-4.jpg",
+            "about":
+              "Dragon Plant one of the most popular and beautiful species that will produce clumpms. The storage of water often gives succulent plants a more swollen or fleshy appearance than other plants, a characteristic known as succulence."
+          },
+          {
+            "id": 5,
+            "name": "Lip tint",
+            "price": 29.99,
+            "like": false,
+            "img": "https://lh3.googleusercontent.com/proxy/2Z235kGu4Lq4jJ8VtHXkez1ZPLYgmDRUA-Njdwv_GM4okQwWsbFOqkpubftp1x5yCF_Npn78AFZF6g7XgqFhGo9YbwnxJI-NQzwa3nGrr8Hq7VOesw",
+            "about":
+              "Dragon Plant one of the most popular and beautiful species that will produce clumpms. The storage of water often gives succulent plants a more swollen or fleshy appearance than other plants, a characteristic known as succulence."
+          },
+          {
+            "id": 6,
+            "name": "Lip balm",
+            "price": 29.99,
+            "like": false,
+            "img": "https://www.elle.vn/wp-content/uploads/2019/01/30/elle-viet-nam-son-do-3.jpg",
+            "about":
+              "Dragon Plant one of the most popular and beautiful species that will produce clumpms. The storage of water often gives succulent plants a more swollen or fleshy appearance than other plants, a characteristic known as succulence."
+          }
+    ]
+}

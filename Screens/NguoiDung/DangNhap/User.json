@@ -1,0 +1,14 @@
+{
+    "User":[
+        {
+            "user":"Quan",
+            "pass":"123",
+            "accountbalance":50000
+        },
+        {
+            "user":"Khang",
+            "pass":"123",
+            "accountbalance":40000
+        }
+    ]
+}

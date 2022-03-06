@@ -1,0 +1,60 @@
+{
+    "products":[
+        {
+            
+            "id": 1,
+            "name": "Dress asiimov",
+            "price": 39.99,
+            "like": true,
+            "img": "https://png.pngtree.com/png-clipart/20190904/original/pngtree-black-writes-a-sense-of-small-dress-png-image_4477742.jpg",
+            "about":
+              "Succulent Plantis one of the most popular and beautiful species that will produce clumpms. The storage of water often gives succulent plants a more swollen or fleshy appearance than other plants, a characteristic known as succulence."
+          },
+        
+          {
+            "id": 2,
+            "name": "Dress index",
+            "price": 29.99,
+            "like": false,
+            "img": "http://styleguru.vn/wp-content/uploads/2021/03/kieu-vay-dam-xoe-cong-chua-1.jpg",
+            "about":
+              "Dragon Plant one of the most popular and beautiful species that will produce clumpms. The storage of water often gives succulent plants a more swollen or fleshy appearance than other plants, a characteristic known as succulence."
+          },
+          {
+            "id": 3,
+            "name": "Dress fairy teeth",
+            "price": 29.99,
+            "like": false,
+            "img": "https://cf.shopee.vn/file/b05bdaede0d0b001021eb54e36967c0e",
+            "about":
+              "Dragon Plant one of the most popular and beautiful species that will produce clumpms. The storage of water often gives succulent plants a more swollen or fleshy appearance than other plants, a characteristic known as succulence."
+          },
+          {
+            "id": 4,
+            "name": "Dress slate",
+            "price": 29.99,
+            "like": false,
+            "img": "https://cf.shopee.vn/file/a8b0e0795ff31efbdc8d9c131e80a70b",
+            "about":
+              "Dragon Plant one of the most popular and beautiful species that will produce clumpms. The storage of water often gives succulent plants a more swollen or fleshy appearance than other plants, a characteristic known as succulence."
+          },
+          {
+            "id": 5,
+            "name": "Dress Pink Dot",
+            "price": 29.99,
+            "like": false,
+            "img": "https://vcdn1-ione.vnecdn.net/2020/06/26/iconic-studios-5233-1593147862.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=CawviRS6GiSF2yBwT1wnjg",
+            "about":
+              "Dragon Plant one of the most popular and beautiful species that will produce clumpms. The storage of water often gives succulent plants a more swollen or fleshy appearance than other plants, a characteristic known as succulence."
+          },
+          {
+            "id": 6,
+            "name": "Dress Dragon Lore",
+            "price": 29.99,
+            "like": false,
+            "img": "https://cf.shopee.vn/file/6d4a6595ad4ba152f936c247f912d8e8",
+            "about":
+              "Dragon Plant one of the most popular and beautiful species that will produce clumpms. The storage of water often gives succulent plants a more swollen or fleshy appearance than other plants, a characteristic known as succulence."
+          }
+    ]
+}
